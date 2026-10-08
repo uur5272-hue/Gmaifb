@@ -1,0 +1,6 @@
+{
+  "name": "MOTO AI ASSISTANT",
+  "description": "Ultra-futuristic cyberpunk AI voice assistant with wake-word detection, Gemini AI intelligence, neural TTS voice, and media generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
